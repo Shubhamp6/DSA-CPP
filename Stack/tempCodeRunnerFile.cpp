@@ -1,0 +1,1 @@
+postfixExp[j] = '\0';
